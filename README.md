@@ -1,6 +1,6 @@
 --This is the program that demonstrates the glitch in my game.
 
-
+~~~
 --# Main
 
 function setup()
